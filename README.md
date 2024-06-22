@@ -210,7 +210,7 @@ npm run outbox-exec --txhash 0xmytxnhash
 <br/>
 
 결과
-```json
+```
 Outbox entry exists! Trying to execute now
 Done! Your transaction is executed {
   to: '0x65f07C7D521164a4d5DaC6eB8Fac8DA067A3B78F',
