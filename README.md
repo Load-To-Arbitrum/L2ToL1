@@ -204,6 +204,11 @@ npm run outbox-exec --txhash 0xmytxnhash
 
 <br/>
 
+L2->L1 트랜잭션 해쉬값은 https://sepolia.arbiscan.io/txsExit 의 L2 Tx Hash에서 확인할 수 있다.
+![img_5.png](images/img_5.png)
+
+<br/>
+
 아래의 트랜잭션 값을 넣어 실행해보았다. (https://sepolia.arbiscan.io/tx/0xcedd3d9c61723b51e12e181c7be65d87f38fb0037bbc5b9a16fd7fb6c00bc84f)
 ![img_3.png](images/img_3.png)
 
